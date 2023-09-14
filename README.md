@@ -1,5 +1,3 @@
-**README: Classification with LDA, QDA, and BDR**
-
 ## Overview
 
 This repository contains Python code for performing classification on the Shuttle dataset using three different classifiers: Linear Discriminant Analysis (LDA), Quadratic Discriminant Analysis (QDA), and Bayesian Decision Rule (BDR). Each classifier is implemented with the necessary preprocessing steps and hyperparameter tuning where applicable.
